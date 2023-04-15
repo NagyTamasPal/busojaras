@@ -1,4 +1,39 @@
+body{
+    background-color: #FFF5E8;
+    color:#522F00,;
+    font-family: Arial, sans-serif;
+    text-align: justify;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+header{
+    height: 250px;
+    background-image:url(maglya.jpg);
+}
+h1 h2{color: #B16400;
 
-
-
-
+}
+p{
+    text-indent: 20px;
+}
+img{
+    background-color: #ffffff;
+    padding: 5px;
+    margin: 5px 15px;
+    width: 15em;
+    border: 2px #FFEBD0;
+}
+footer{
+    height: 60px;
+    background-color: #FFEBD0;
+    padding-top: 20px;
+    font-size: 0.8em;
+    background-image:url(buso_logo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 55px;
+}
+.ballra{float: left;}
+.jobbra{float: right;}
